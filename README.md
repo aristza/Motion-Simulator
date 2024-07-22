@@ -1,5 +1,7 @@
 # Motion Simulator
 
+![Alt text](motio-simulator.jpg)
+
 ## Project Overview
 
 **Motion Simulator** is an advanced project that brings an immersive and realistic experience to gaming by simulating motion. This project utilizes force data extracted from game engines through the X-Sim application, which is then processed and sent to an Arduino board. The Arduino board controls DC motor drivers and receives feedback from potentiometers to accurately position the motors' driveshafts. The motion is powered by two robust 24V windshield wiper motors sourced from a truck.
