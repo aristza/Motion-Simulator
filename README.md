@@ -1,6 +1,6 @@
 # Motion Simulator
 
-![Alt text](motio-simulator.jpg)
+![Motion Simulator Image](motion-simulator.jpg)
 
 ## Project Overview
 
